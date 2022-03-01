@@ -1,4 +1,4 @@
-from a10q3 import *
+from q3 import *
 import check
 
 def double_judge(bridge_game):
