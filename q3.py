@@ -1,4 +1,4 @@
-from a10q2 import *
+from q2 import *
 import check
 
 
